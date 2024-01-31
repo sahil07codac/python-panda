@@ -1,7 +1,7 @@
 # python-panda
 
 Python Pandas – my very own Jupyter Notebook! 🐍🐼📓
-I've been on this incredible learning journey, and I wanted to make sure I capture every "Aha!" moment along the way. So, I put together this Pandas learning notebook – a collection of my trials, triumphs, and everything in between! 🚀
+I've been on this incredible learning journey, and I wanted to make sure I capture every "supercool!" moment along the way. So, I put together this Pandas learning notebook – a collection of my trials, triumphs, and everything in between! 🚀
 
 From the very beginning of installing Pandas to creating magic with DataFrames, I've got you covered! 🚀
 Here's a peek into the awesomeness:
