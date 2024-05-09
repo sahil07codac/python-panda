@@ -5,6 +5,7 @@ I've been on this incredible learning journey, and I wanted to make sure I captu
 
 From the very beginning of installing Pandas to creating magic with DataFrames, I've got you covered! 🚀
 Here's a peek into the awesomeness:
+
 1️⃣ Installing Pandas: Let's kick things off with setting up your Python playground – easy steps to get Pandas up and running!
 
 2️⃣ Importing Data in Pandas: Unlock the power of Pandas by learning the various ways to import data, from basic Series to intricate DataFrames.
